@@ -1,0 +1,132 @@
+¡Hola! Continuemos con el proyecto de traducción y formateo de "The Nature of Predators".
+Aquí está la información actualizada y refinada para asegurar un estándar profesional de alta calidad en la presentación y coherencia del libro en formato EPUB:
+
+✅ **Formato de los archivos XHTML:**
+Cada capítulo debe entregarse en **XHTML 1.1 válido** con la siguiente estructura:
+
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es">
+<head>
+    <title>Capítulo X</title>
+    <link href="../Styles/epl.css" rel="stylesheet" type="text/css"/>
+    <link href="../Styles/style.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+    <h1>Capítulo X <br /><span class="subt">Memoria del sujeto de transcripción:</span> </h1>
+    <h2><span class="subt1">Nombre del personaje,</span>  <br />
+        <span class="subt2">Rango o título del personaje</span>
+    </h2>
+    <h3>Fecha [tiempo humano estandarizado]:<br /> Fecha del evento</h3>
+
+    <p>Contenido del capítulo...</p>
+
+    <p class="separador">⋯ ✧ ⋯ ✧ ⋯</p>
+</body>
+</html>
+```
+
+✅ **Formato de los archivos en inglés (sin traducir):**
+El texto original en inglés también debe entregarse con la misma estructura XHTML 1.1, formato y consistencia, en un archivo separado.
+
+📜 **Reglas de formato y consistencia obligatoria:**
+- La extensión de los archivos debe ser **.xhtml**.
+- Todas las etiquetas en minúsculas.
+- Etiquetas vacías siempre cerradas con barra (`<br />`, `<img />`).
+- No usar etiquetas HTML5; únicamente XHTML 1.1.
+- Todos los atributos entre comillas dobles.
+- DOCTYPE y declaración XML obligatorios.
+- CSS enlazado de forma relativa, desde `../Styles/`.
+- Encabezados, estilos y separadores según los ejemplos.
+
+📝 **Instrucciones de traducción y presentación:**
+- La traducción debe ser en **español neutro**, evitando modismos o regionalismos.
+- Usar un tono literario natural, comprensible para todo público hispanohablante.
+- Respetar nombres propios y términos técnicos sin modificación.
+- No realizar adaptaciones culturales; solo traducción fiel y elegante.
+- Verificar ortografía, gramática y coherencia antes de entregar.
+
+🔎 **Proceso de entrega:**
+1. Yo proporcionaré el texto original en inglés del capítulo.
+2. Se debe entregar:
+   - El archivo **en español traducido** siguiendo el formato indicado.
+   - El archivo **en inglés (original)** formateado con las mismas características y estructura.
+3. Ambos archivos deberán entregarse separados, con nombre de archivo claro (por ejemplo: `capitulo_XX_es.xhtml` y `capitulo_XX_en.xhtml`).
+4. Los archivos deben ser válidos bajo el validador de XHTML 1.1.
+5. Mantener profesionalismo, calidad editorial y coherencia a lo largo de toda la serie.
+
+Si tienes alguna duda, por favor consulta antes de generar el contenido. ¡Gracias por tu colaboración profesional!
+
+
+
+
+
+--------
+
+
+¡Hola! Continuemos con el proyecto de traducción y formateo de "The Nature of Predators".
+Aquí está la información actualizada y refinada para asegurar un estándar profesional de alta calidad en la presentación y coherencia del libro en formato EPUB.
+
+✅ Formato de los archivos XHTML:
+Cada capítulo debe entregarse en XHTML 1.1 válido con la siguiente estructura:
+
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es">
+<head>
+    <title>Capítulo X</title>
+    <link href="../Styles/epl.css" rel="stylesheet" type="text/css"/>
+    <link href="../Styles/style.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+    <h1>Capítulo X <br /><span class="subt">Memoria del sujeto de transcripción:</span> </h1>
+    <h2><span class="subt1">Nombre del personaje,</span>  <br />
+        <span class="subt2">Rango o título del personaje</span>
+    </h2>
+    <h3>Fecha [tiempo humano estandarizado]:<br /> Fecha del evento</h3>
+
+    <p>Contenido del capítulo...</p>
+
+    <p class="separador">⋯ ✧ ⋯ ✧ ⋯</p>
+</body>
+</html>
+✅ Formato de los archivos en inglés (sin traducir):
+El texto original en inglés también debe entregarse con la misma estructura XHTML 1.1, formato y consistencia, en un archivo separado.
+
+📜 Reglas de formato y consistencia obligatoria:
+
+La extensión de los archivos debe ser .xhtml.
+Todas las etiquetas deben ir en minúsculas.
+Las etiquetas vacías deben cerrarse con barra (<br />, <img />).
+No se deben usar etiquetas HTML5, solo XHTML 1.1.
+Todos los atributos deben ir entre comillas dobles.
+DOCTYPE y declaración XML obligatorios.
+Usar siempre el mismo CSS, enlazado de forma relativa desde ../Styles/.
+Encabezados, estilos y separadores deben respetar los ejemplos.
+📝 Instrucciones de traducción y presentación:
+
+La traducción debe ser en español neutro, evitando modismos o regionalismos.
+Usar un tono literario natural, comprensible para todo público hispanohablante.
+Respetar nombres propios y términos técnicos sin modificar.
+No realizar adaptaciones culturales; solo una traducción fiel y precisa.
+Verificar ortografía, gramática y coherencia antes de entregar.
+🔎 Proceso de entrega:
+
+Yo proporcionaré el texto original en inglés del capítulo.
+Se deben entregar dos archivos separados:
+Versión en español traducida siguiendo el formato indicado.
+Versión en inglés (original), formateada con las mismas características y estructura.
+Ambos archivos deben tener nombres claros y diferenciables, por ejemplo:
+capitulo_XX_es.xhtml (versión en español)
+capitulo_XX_en.xhtml (versión en inglés)
+Los archivos deben ser válidos bajo el validador de XHTML 1.1.
+Mantener profesionalismo, calidad editorial y coherencia a lo largo de toda la serie.
+Si tienes alguna duda, por favor consulta antes de generar el contenido.
+¡Gracias por tu colaboración profesional!
+
+Este es el prompt optimizado y profesionalizado para asegurar un trabajo de alta calidad. 🚀
