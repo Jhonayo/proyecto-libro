@@ -33,15 +33,15 @@
     <item id="dedicatoria.xhtml" href="Text/dedicatoria.xhtml" media-type="application/xhtml+xml"/>
     <item id="Prologo.xhtml" href="Text/Prologo.xhtml" media-type="application/xhtml+xml"/>
     <item id="indice.xhtml" href="Text/indice.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Cap1.xhtml" href="Text/Cap1.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Cap2.xhtml" href="Text/Cap2.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Cap3.xhtml" href="Text/Cap3.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Cap4.xhtml" href="Text/Cap4.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Cap5.xhtml" href="Text/Cap5.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Cap6.xhtml" href="Text/Cap6.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Cap7.xhtml" href="Text/Cap7.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Cap8.xhtml" href="Text/Cap8.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Cap9.xhtml" href="Text/Cap9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Cap01.xhtml" href="Text/Cap01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Cap02.xhtml" href="Text/Cap02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Cap03.xhtml" href="Text/Cap03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Cap04.xhtml" href="Text/Cap04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Cap05.xhtml" href="Text/Cap05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Cap06.xhtml" href="Text/Cap06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Cap07.xhtml" href="Text/Cap07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Cap08.xhtml" href="Text/Cap08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Cap09.xhtml" href="Text/Cap09.xhtml" media-type="application/xhtml+xml"/>
     <item id="Cap10.xhtml" href="Text/Cap10.xhtml" media-type="application/xhtml+xml"/>
     <item id="Cap11.xhtml" href="Text/Cap11.xhtml" media-type="application/xhtml+xml"/>
     <item id="Cap12.xhtml" href="Text/Cap12.xhtml" media-type="application/xhtml+xml"/>
@@ -135,6 +135,7 @@
     <item id="style.css" href="Styles/style.css" media-type="text/css"/>
     <item id="asterisco3.png" href="Images/asterisco3.png" media-type="image/png"/>
     <item id="cover.png" href="Images/cover.png" media-type="image/png"/>
+    <item id="contraportada.png" href="Images/contraportada.png" media-type="image/png"/>
     <item id="EPL_logo.png" href="Images/EPL_logo.png" media-type="image/png"/>
     <item id="ex_libris.png" href="Images/ex_libris.png" media-type="image/png"/>
   </manifest>
@@ -146,15 +147,15 @@
     <itemref idref="dedicatoria.xhtml"/>
     <itemref idref="Prologo.xhtml"/>
     <itemref idref="indice.xhtml"/>
-    <itemref idref="Cap1.xhtml"/>
-    <itemref idref="Cap2.xhtml"/>
-    <itemref idref="Cap3.xhtml"/>
-    <itemref idref="Cap4.xhtml"/>
-    <itemref idref="Cap5.xhtml"/>
-    <itemref idref="Cap6.xhtml"/>
-    <itemref idref="Cap7.xhtml"/>
-    <itemref idref="Cap8.xhtml"/>
-    <itemref idref="Cap9.xhtml"/>
+    <itemref idref="Cap01.xhtml"/>
+    <itemref idref="Cap02.xhtml"/>
+    <itemref idref="Cap03.xhtml"/>
+    <itemref idref="Cap04.xhtml"/>
+    <itemref idref="Cap05.xhtml"/>
+    <itemref idref="Cap06.xhtml"/>
+    <itemref idref="Cap07.xhtml"/>
+    <itemref idref="Cap08.xhtml"/>
+    <itemref idref="Cap09.xhtml"/>
     <itemref idref="Cap10.xhtml"/>
     <itemref idref="Cap11.xhtml"/>
     <itemref idref="Cap12.xhtml"/>
@@ -246,7 +247,7 @@
   </spine>
   <guide>
     <reference type="cover" title="Portada" href="Text/cubierta.xhtml"/>
-    <reference type="cover" title="Contraportada" href="Text/contraportada.xhtml"/>
+    <reference type="contraportada" title="Contraportada" href="Text/contraportada.xhtml"/>
     <reference type="title-page" title="Página de título" href="Text/titulo.xhtml"/>
     <reference type="toc" title="Tabla de Contenidos" href="Text/indice.xhtml"/>
     <reference type="copyright-page" title="Créditos" href="Text/info.xhtml"/>
