@@ -134,8 +134,7 @@
     <item id="epl.css" href="Styles/epl.css" media-type="text/css"/>
     <item id="style.css" href="Styles/style.css" media-type="text/css"/>
     <item id="asterisco3.png" href="Images/asterisco3.png" media-type="image/png"/>
-    <item id="autora.jpg" href="Images/autora.jpg" media-type="image/jpeg"/>
-    <item id="cover.png" href="Images/cover.png" media-type="image/jpeg"/>
+    <item id="cover.png" href="Images/cover.png" media-type="image/png"/>
     <item id="EPL_logo.png" href="Images/EPL_logo.png" media-type="image/png"/>
     <item id="ex_libris.png" href="Images/ex_libris.png" media-type="image/png"/>
   </manifest>

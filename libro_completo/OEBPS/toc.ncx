@@ -27,7 +27,7 @@
       <navLabel>
         <text>Primera parte</text>
       </navLabel>
-      <content src="Text/parte1.xhtml"/>
+      <content src=""/>
       <navPoint id="navPoint-4" playOrder="4">
         <navLabel>
           <text>Prólogo</text>
@@ -219,7 +219,7 @@
       <navLabel>
         <text>Segunda parte</text>
       </navLabel>
-      <content src="Text/parte2.xhtml"/>
+      <content src=""/>
       <navPoint id="navPoint-36" playOrder="36">
         <navLabel>
           <text>Capítulo 31</text>
@@ -405,7 +405,7 @@
       <navLabel>
         <text>Tercera parte</text>
       </navLabel>
-      <content src="Text/parte3.xhtml"/>
+      <content src=""/>
       <navPoint id="navPoint-67" playOrder="67">
         <navLabel>
           <text>Capítulo 61</text>
@@ -621,7 +621,7 @@
       <navLabel>
         <text>Epílogo</text>
       </navLabel>
-      <content src="Text/Epilogo.xhtml"/>
+      <content src=""/>
     </navPoint>
     <navPoint id="navPoint-103" playOrder="103">
       <navLabel>
