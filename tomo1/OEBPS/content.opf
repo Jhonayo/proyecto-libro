@@ -27,11 +27,12 @@
   </metadata>
   <manifest>
     <item id="cubierta.xhtml" href="Text/cubierta.xhtml" media-type="application/xhtml+xml"/>
-    <item id="sinopsis.xhtml" href="Text/sinopsis.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contraportada.xhtml" href="Text/contraportada.xhtml" media-type="application/xhtml+xml"/>
     <item id="titulo.xhtml" href="Text/titulo.xhtml" media-type="application/xhtml+xml"/>
     <item id="info.xhtml" href="Text/info.xhtml" media-type="application/xhtml+xml"/>
     <item id="dedicatoria.xhtml" href="Text/dedicatoria.xhtml" media-type="application/xhtml+xml"/>
     <item id="Prologo.xhtml" href="Text/Prologo.xhtml" media-type="application/xhtml+xml"/>
+    <item id="indice.xhtml" href="Text/indice.xhtml" media-type="application/xhtml+xml"/>
     <item id="Cap1.xhtml" href="Text/Cap1.xhtml" media-type="application/xhtml+xml"/>
     <item id="Cap2.xhtml" href="Text/Cap2.xhtml" media-type="application/xhtml+xml"/>
     <item id="Cap3.xhtml" href="Text/Cap3.xhtml" media-type="application/xhtml+xml"/>
@@ -140,11 +141,12 @@
   </manifest>
   <spine toc="ncx">
     <itemref idref="cubierta.xhtml"/>
-    <itemref idref="sinopsis.xhtml"/>
+    <itemref idref="contraportada.xhtml"/>
     <itemref idref="titulo.xhtml"/>
     <itemref idref="info.xhtml"/>
     <itemref idref="dedicatoria.xhtml"/>
     <itemref idref="Prologo.xhtml"/>
+    <itemref idref="indice.xhtml"/>
     <itemref idref="Cap1.xhtml"/>
     <itemref idref="Cap2.xhtml"/>
     <itemref idref="Cap3.xhtml"/>
@@ -245,8 +247,9 @@
   </spine>
   <guide>
     <reference type="cover" title="Portada" href="Text/cubierta.xhtml"/>
-    <reference type="text" title="Texto" href="Text/sinopsis.xhtml"/>
+    <reference type="cover" title="Contraportada" href="Text/contraportada.xhtml"/>
     <reference type="title-page" title="Página de título" href="Text/titulo.xhtml"/>
+    <reference type="toc" title="Tabla de Contenidos" href="Text/indice.xhtml"/>
     <reference type="copyright-page" title="Créditos" href="Text/info.xhtml"/>
   </guide>
 </package>
