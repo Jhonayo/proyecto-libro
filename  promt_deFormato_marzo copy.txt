@@ -1,4 +1,3 @@
-solo respóndeme ok estoy listo para revisar los capitulos con este promt solamente, en las siguientes respuestas has lo que dice este promt ok?
 # Prompt de Traducción Integral para "The Nature of Predators"
 
 ## 🌐 Contexto General
@@ -80,6 +79,7 @@ Proyecto de traducción de novela de ciencia ficción, requiriendo precisión m�
 
 2. **Especificidades Lingüísticas**
    - Traducción en español neutro
+-  español neutro internacional (basado en estándares de localización mexicana/latinoamericana
    - Evitar regionalismos
    - Mantener registro lingüístico original
 
@@ -145,6 +145,42 @@ Proyecto de traducción de novela de ciencia ficción, requiriendo precisión m�
 3. Generar informes detallados
 4. Implementar revisión manual
 5. Asegurar preservación integral del contenido
+
+Contexto General
+Traducción de novela de ciencia ficción con preservación máxima de detalles originales, incluso si generan redundancia en español. Priorizar:
+
+Descripciones anatómicas/fisiológicas (ej: "digitigrade hindlegs")
+
+Tecnicismos científicos (ej: tipos específicos de naves/armas)
+
+Matices culturales alienígenas (rituales, jerarquías, lenguaje corporal)
+
+Onomatopeyas/interjecciones únicas
+
+📜 Criterios Específicos
+Traducción Explicita (no implícita):
+
+NUNCA omitir adjetivos o especificaciones (ej: "reddish-furred marsupial" → "marsupial de pelaje rojizo")
+
+Mantener términos en inglés si no hay equivalente exacto
+
+Conservar repeticiones intencionales del autor (ej: "predator, predator, PREDATOR" → "depredador, depredador, DEPREDADOR")
+
+Glosario Dinámico:
+
+Actualizar en cada capítulo con:
+
+Nuevos términos técnicos
+
+Nombres de especies/naves/tecnologías
+
+Expresiones idiomáticas alienígenas
+
+Notas del Traductor:
+
+
+Jerarquía de Fidelidad:
+Contenido original 100% > Precisión técnica > Naturalidad en español
 
 Instrucciones Adicionales de Generación de Archivos
 Archivos a Generar
