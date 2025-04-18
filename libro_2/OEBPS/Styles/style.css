@@ -1,0 +1,136 @@
+/* ePub base r2.1 ePubLibre - style.css*/
+
+p {
+    margin: 0;
+    text-align: justify;
+    text-indent: 1.2em;
+    line-height: 125%;
+    margin-bottom: 1em;
+}
+
+h1 {
+    font-family: italic, serif;
+    font-size: 1.5em;
+    page-break-before: always;
+    color: #333;
+    margin-top: 1.5em;
+    margin-bottom: 1em;
+    line-height: 1.4;
+    text-align: center;
+}
+
+h2 {
+    font-family: Garamond, serif;
+      font-size: 1.3em;
+      line-height: 1.4;
+      font-style: italic;
+      text-align: left;
+}
+
+h3 {
+    font-family: Verdana, sans-serif, serif;
+    font-size: 0.9em;
+    text-align: right;
+    margin-bottom: 1.5em;
+    padding-right: 0.9em;
+    color: #595858;
+    font-style: italic;
+}
+
+.subTitle {
+    font-family: Garamond, serif;
+    font-size: 0.9em;
+    margin-bottom: 1em;
+    font-style: italic;
+}
+
+.indent {
+    padding-left: 0.2em;
+    white-space: normal;
+    font-style: italic;
+}
+
+.separador {
+    text-align: center;
+    text-indent: 0;
+    margin: 3em 0;
+    font-size: 1.3em;
+    color: #666;
+}
+.page-break {
+    text-align: center;
+    font-style: italic;
+    margin-top: 4em;
+    margin-right: 1em;
+    padding-left: 50%;
+    page-break-after: always;
+}
+
+
+.dedicatoria {
+    margin: 25% 3% 0 15%;
+    text-align: right;
+}
+
+.dedicatoria p {
+    text-align: center;
+    text-indent: 0;
+    font-style: italic;
+}
+
+.ilustra {
+    margin: 1em 0;
+    text-align: center;
+    text-indent: 0;
+    display: block;
+}
+
+hr {
+    height: 2.5em;
+}
+
+hr.imagen {
+    width: auto;
+    border: none;
+    margin: 1em 0;
+    height: 1em;
+    text-indent: 0;
+    text-align: center;
+    background: url(../Images/asterisco3.png) no-repeat center;
+    background-size: 3em 1em;
+    overflow: hidden;
+}
+
+.dedicatoria {
+    adobe-hyphenate: none;
+    -ms-hyphens: none;
+    -moz-hyphens: none;
+    -webkit-hyphens: none;
+    -epub-hyphens: none;
+    hyphens: none;
+}
+
+.subt {
+    font-family: Garamond, serif;
+    font-size: 0.9em;
+    margin-top: 1.5em;
+    font-style: italic;
+}
+
+.subt1 {
+    padding-left: 0.8em;
+    white-space: normal;
+    font-style: italic;
+}
+
+
+.subt2 {
+    font-size: 0.9em;
+    padding-left: 0.8em;
+    white-space: normal;
+    font-style: italic;
+}
+
+.capitular {
+    font-size: 2.5em;
+}
