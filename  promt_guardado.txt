@@ -1,5 +1,5 @@
 
 
-zip -0 -X file5.epub mimetype
+zip -0 -X file.epub mimetype
 
-zip -9 -r file5.epub META-INF OEBPS
+zip -9 -r file.epub META-INF OEBPS
