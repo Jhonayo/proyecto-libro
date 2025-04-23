@@ -27,21 +27,21 @@
   </metadata>
   <manifest>
     <item id="cubierta.xhtml" href="Text/cubierta.xhtml" media-type="application/xhtml+xml"/>
-    <item id="sinopsis.xhtml" href="Text/sinopsis.xhtml" media-type="application/xhtml+xml"/>
+    <item id="contraportada.xhtml" href="Text/contraportada.xhtml" media-type="application/xhtml+xml"/>
     <item id="titulo.xhtml" href="Text/titulo.xhtml" media-type="application/xhtml+xml"/>
     <item id="info.xhtml" href="Text/info.xhtml" media-type="application/xhtml+xml"/>
     <item id="dedicatoria.xhtml" href="Text/dedicatoria.xhtml" media-type="application/xhtml+xml"/>
     <item id="Prologo.xhtml" href="Text/Prologo.xhtml" media-type="application/xhtml+xml"/>
     <item id="indice.xhtml" href="Text/indice.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Cap1.xhtml" href="Text/Cap1.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Cap2.xhtml" href="Text/Cap2.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Cap3.xhtml" href="Text/Cap3.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Cap4.xhtml" href="Text/Cap4.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Cap5.xhtml" href="Text/Cap5.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Cap6.xhtml" href="Text/Cap6.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Cap7.xhtml" href="Text/Cap7.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Cap8.xhtml" href="Text/Cap8.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Cap9.xhtml" href="Text/Cap9.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Cap01.xhtml" href="Text/Cap01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Cap02.xhtml" href="Text/Cap02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Cap03.xhtml" href="Text/Cap03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Cap04.xhtml" href="Text/Cap04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Cap05.xhtml" href="Text/Cap05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Cap06.xhtml" href="Text/Cap06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Cap07.xhtml" href="Text/Cap07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Cap08.xhtml" href="Text/Cap08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Cap09.xhtml" href="Text/Cap09.xhtml" media-type="application/xhtml+xml"/>
     <item id="Cap10.xhtml" href="Text/Cap10.xhtml" media-type="application/xhtml+xml"/>
     <item id="Cap11.xhtml" href="Text/Cap11.xhtml" media-type="application/xhtml+xml"/>
     <item id="Cap12.xhtml" href="Text/Cap12.xhtml" media-type="application/xhtml+xml"/>
@@ -128,34 +128,123 @@
     <item id="Cap93.xhtml" href="Text/Cap93.xhtml" media-type="application/xhtml+xml"/>
     <item id="Cap94.xhtml" href="Text/Cap94.xhtml" media-type="application/xhtml+xml"/>
     <item id="Cap95.xhtml" href="Text/Cap95.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap96.xhtml" href="Text/Cap96.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap97.xhtml" href="Text/Cap97.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap98.xhtml" href="Text/Cap98.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap99.xhtml" href="Text/Cap99.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap100.xhtml" href="Text/Cap100.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap101.xhtml" href="Text/Cap101.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap102.xhtml" href="Text/Cap102.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap103.xhtml" href="Text/Cap103.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap104.xhtml" href="Text/Cap104.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap105.xhtml" href="Text/Cap105.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap106.xhtml" href="Text/Cap106.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap107.xhtml" href="Text/Cap107.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap108.xhtml" href="Text/Cap108.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap109.xhtml" href="Text/Cap109.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap110.xhtml" href="Text/Cap110.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap111.xhtml" href="Text/Cap111.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap112.xhtml" href="Text/Cap112.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap113.xhtml" href="Text/Cap113.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap114.xhtml" href="Text/Cap114.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap115.xhtml" href="Text/Cap115.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap116.xhtml" href="Text/Cap116.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap117.xhtml" href="Text/Cap117.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap118.xhtml" href="Text/Cap118.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap119.xhtml" href="Text/Cap119.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap120.xhtml" href="Text/Cap120.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap121.xhtml" href="Text/Cap121.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap122.xhtml" href="Text/Cap122.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap123.xhtml" href="Text/Cap123.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap124.xhtml" href="Text/Cap124.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap125.xhtml" href="Text/Cap125.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap126.xhtml" href="Text/Cap126.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap127.xhtml" href="Text/Cap127.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap128.xhtml" href="Text/Cap128.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap129.xhtml" href="Text/Cap129.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap130.xhtml" href="Text/Cap130.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap131.xhtml" href="Text/Cap131.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap132.xhtml" href="Text/Cap132.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap133.xhtml" href="Text/Cap133.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap134.xhtml" href="Text/Cap134.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap135.xhtml" href="Text/Cap135.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap136.xhtml" href="Text/Cap136.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap137.xhtml" href="Text/Cap137.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap138.xhtml" href="Text/Cap138.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap139.xhtml" href="Text/Cap139.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap140.xhtml" href="Text/Cap140.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap141.xhtml" href="Text/Cap141.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap142.xhtml" href="Text/Cap142.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap143.xhtml" href="Text/Cap143.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap144.xhtml" href="Text/Cap144.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap145.xhtml" href="Text/Cap145.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap146.xhtml" href="Text/Cap146.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap147.xhtml" href="Text/Cap147.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap148.xhtml" href="Text/Cap148.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap149.xhtml" href="Text/Cap149.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap150.xhtml" href="Text/Cap150.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap151.xhtml" href="Text/Cap151.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap152.xhtml" href="Text/Cap152.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap153.xhtml" href="Text/Cap153.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap154.xhtml" href="Text/Cap154.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap155.xhtml" href="Text/Cap155.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap156.xhtml" href="Text/Cap156.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap157.xhtml" href="Text/Cap157.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap158.xhtml" href="Text/Cap158.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap159.xhtml" href="Text/Cap159.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap160.xhtml" href="Text/Cap160.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap161.xhtml" href="Text/Cap161.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap162.xhtml" href="Text/Cap162.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap163.xhtml" href="Text/Cap163.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap164.xhtml" href="Text/Cap164.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap165.xhtml" href="Text/Cap165.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap166.xhtml" href="Text/Cap166.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap167.xhtml" href="Text/Cap167.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap168.xhtml" href="Text/Cap168.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap169.xhtml" href="Text/Cap169.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap170.xhtml" href="Text/Cap170.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap171.xhtml" href="Text/Cap171.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap172.xhtml" href="Text/Cap172.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap173.xhtml" href="Text/Cap173.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap174.xhtml" href="Text/Cap174.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap175.xhtml" href="Text/Cap175.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap176.xhtml" href="Text/Cap176.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap177.xhtml" href="Text/Cap177.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap178.xhtml" href="Text/Cap178.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap179.xhtml" href="Text/Cap179.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap180.xhtml" href="Text/Cap180.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap181.xhtml" href="Text/Cap181.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap182.xhtml" href="Text/Cap182.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap183.xhtml" href="Text/Cap183.xhtml" media-type="application/xhtml+xml"/>
+<item id="Cap184.xhtml" href="Text/Cap184.xhtml" media-type="application/xhtml+xml"/>
     <item id="Agradecimientos.xhtml" href="Text/Agradecimientos.xhtml" media-type="application/xhtml+xml"/>
     <item id="autor.xhtml" href="Text/autor.xhtml" media-type="application/xhtml+xml"/>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="epl.css" href="Styles/epl.css" media-type="text/css"/>
     <item id="style.css" href="Styles/style.css" media-type="text/css"/>
     <item id="asterisco3.png" href="Images/asterisco3.png" media-type="image/png"/>
-    <item id="autora.jpg" href="Images/autora.jpg" media-type="image/jpeg"/>
-    <item id="cover.png" href="Images/cover.png" media-type="image/jpeg"/>
+    <item id="cover.png" href="Images/cover.png" media-type="image/png"/>
+    <item id="contraportada.png" href="Images/contraportada.png" media-type="image/png"/>
     <item id="EPL_logo.png" href="Images/EPL_logo.png" media-type="image/png"/>
     <item id="ex_libris.png" href="Images/ex_libris.png" media-type="image/png"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="cubierta.xhtml"/>
-    <itemref idref="sinopsis.xhtml"/>
+    <itemref idref="contraportada.xhtml"/>
     <itemref idref="titulo.xhtml"/>
     <itemref idref="info.xhtml"/>
     <itemref idref="dedicatoria.xhtml"/>
     <itemref idref="Prologo.xhtml"/>
     <itemref idref="indice.xhtml"/>
-    <itemref idref="Cap1.xhtml"/>
-    <itemref idref="Cap2.xhtml"/>
-    <itemref idref="Cap3.xhtml"/>
-    <itemref idref="Cap4.xhtml"/>
-    <itemref idref="Cap5.xhtml"/>
-    <itemref idref="Cap6.xhtml"/>
-    <itemref idref="Cap7.xhtml"/>
-    <itemref idref="Cap8.xhtml"/>
-    <itemref idref="Cap9.xhtml"/>
+    <itemref idref="Cap01.xhtml"/>
+    <itemref idref="Cap02.xhtml"/>
+    <itemref idref="Cap03.xhtml"/>
+    <itemref idref="Cap04.xhtml"/>
+    <itemref idref="Cap05.xhtml"/>
+    <itemref idref="Cap06.xhtml"/>
+    <itemref idref="Cap07.xhtml"/>
+    <itemref idref="Cap08.xhtml"/>
+    <itemref idref="Cap09.xhtml"/>
     <itemref idref="Cap10.xhtml"/>
     <itemref idref="Cap11.xhtml"/>
     <itemref idref="Cap12.xhtml"/>
@@ -242,14 +331,103 @@
     <itemref idref="Cap93.xhtml"/>
     <itemref idref="Cap94.xhtml"/>
     <itemref idref="Cap95.xhtml"/>
+<itemref idref="Cap96.xhtml"/>
+<itemref idref="Cap97.xhtml"/>
+<itemref idref="Cap98.xhtml"/>
+<itemref idref="Cap99.xhtml"/>
+<itemref idref="Cap100.xhtml"/>
+<itemref idref="Cap101.xhtml"/>
+<itemref idref="Cap102.xhtml"/>
+<itemref idref="Cap103.xhtml"/>
+<itemref idref="Cap104.xhtml"/>
+<itemref idref="Cap105.xhtml"/>
+<itemref idref="Cap106.xhtml"/>
+<itemref idref="Cap107.xhtml"/>
+<itemref idref="Cap108.xhtml"/>
+<itemref idref="Cap109.xhtml"/>
+<itemref idref="Cap110.xhtml"/>
+<itemref idref="Cap111.xhtml"/>
+<itemref idref="Cap112.xhtml"/>
+<itemref idref="Cap113.xhtml"/>
+<itemref idref="Cap114.xhtml"/>
+<itemref idref="Cap115.xhtml"/>
+<itemref idref="Cap116.xhtml"/>
+<itemref idref="Cap117.xhtml"/>
+<itemref idref="Cap118.xhtml"/>
+<itemref idref="Cap119.xhtml"/>
+<itemref idref="Cap120.xhtml"/>
+<itemref idref="Cap121.xhtml"/>
+<itemref idref="Cap122.xhtml"/>
+<itemref idref="Cap123.xhtml"/>
+<itemref idref="Cap124.xhtml"/>
+<itemref idref="Cap125.xhtml"/>
+<itemref idref="Cap126.xhtml"/>
+<itemref idref="Cap127.xhtml"/>
+<itemref idref="Cap128.xhtml"/>
+<itemref idref="Cap129.xhtml"/>
+<itemref idref="Cap130.xhtml"/>
+<itemref idref="Cap131.xhtml"/>
+<itemref idref="Cap132.xhtml"/>
+<itemref idref="Cap133.xhtml"/>
+<itemref idref="Cap134.xhtml"/>
+<itemref idref="Cap135.xhtml"/>
+<itemref idref="Cap136.xhtml"/>
+<itemref idref="Cap137.xhtml"/>
+<itemref idref="Cap138.xhtml"/>
+<itemref idref="Cap139.xhtml"/>
+<itemref idref="Cap140.xhtml"/>
+<itemref idref="Cap141.xhtml"/>
+<itemref idref="Cap142.xhtml"/>
+<itemref idref="Cap143.xhtml"/>
+<itemref idref="Cap144.xhtml"/>
+<itemref idref="Cap145.xhtml"/>
+<itemref idref="Cap146.xhtml"/>
+<itemref idref="Cap147.xhtml"/>
+<itemref idref="Cap148.xhtml"/>
+<itemref idref="Cap149.xhtml"/>
+<itemref idref="Cap150.xhtml"/>
+<itemref idref="Cap151.xhtml"/>
+<itemref idref="Cap152.xhtml"/>
+<itemref idref="Cap153.xhtml"/>
+<itemref idref="Cap154.xhtml"/>
+<itemref idref="Cap155.xhtml"/>
+<itemref idref="Cap156.xhtml"/>
+<itemref idref="Cap157.xhtml"/>
+<itemref idref="Cap158.xhtml"/>
+<itemref idref="Cap159.xhtml"/>
+<itemref idref="Cap160.xhtml"/>
+<itemref idref="Cap161.xhtml"/>
+<itemref idref="Cap162.xhtml"/>
+<itemref idref="Cap163.xhtml"/>
+<itemref idref="Cap164.xhtml"/>
+<itemref idref="Cap165.xhtml"/>
+<itemref idref="Cap166.xhtml"/>
+<itemref idref="Cap167.xhtml"/>
+<itemref idref="Cap168.xhtml"/>
+<itemref idref="Cap169.xhtml"/>
+<itemref idref="Cap170.xhtml"/>
+<itemref idref="Cap171.xhtml"/>
+<itemref idref="Cap172.xhtml"/>
+<itemref idref="Cap173.xhtml"/>
+<itemref idref="Cap174.xhtml"/>
+<itemref idref="Cap175.xhtml"/>
+<itemref idref="Cap176.xhtml"/>
+<itemref idref="Cap177.xhtml"/>
+<itemref idref="Cap178.xhtml"/>
+<itemref idref="Cap179.xhtml"/>
+<itemref idref="Cap180.xhtml"/>
+<itemref idref="Cap181.xhtml"/>
+<itemref idref="Cap182.xhtml"/>
+<itemref idref="Cap183.xhtml"/>
+<itemref idref="Cap184.xhtml"/>
     <itemref idref="Agradecimientos.xhtml"/>
     <itemref idref="autor.xhtml"/>
   </spine>
   <guide>
     <reference type="cover" title="Portada" href="Text/cubierta.xhtml"/>
-    <reference type="text" title="Texto" href="Text/sinopsis.xhtml"/>
+    <reference type="contraportada" title="Contraportada" href="Text/contraportada.xhtml"/>
     <reference type="title-page" title="Página de título" href="Text/titulo.xhtml"/>
-    <reference type="copyright-page" title="Créditos" href="Text/info.xhtml"/>
     <reference type="toc" title="Tabla de Contenidos" href="Text/indice.xhtml"/>
+    <reference type="copyright-page" title="Créditos" href="Text/info.xhtml"/>
   </guide>
 </package>
